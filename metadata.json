@@ -1,0 +1,6 @@
+{
+  "name": "SheetPulse — Real-time Forms & Sheets Dashboard",
+  "description": "แดชบอร์ดสรุปผลข้อมูลแบบ Real-time เชื่อมต่อ Google Forms, Google Sheets, CSV และ Web App URL พร้อมระบบกรองข้อมูล กราฟอัตโนมัติ และส่งออกรายงาน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
